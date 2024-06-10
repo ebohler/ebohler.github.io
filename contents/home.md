@@ -8,6 +8,6 @@ SIUE Computer Science
 evanbohler@gmail.com
 
 #### Education
-
-
-#### Research Interests
+Southern Illinois University Edwardsville
+Computer Science Major, Mathematical Studies Minor
+Expected Graduation Spring 2025
