@@ -8,6 +8,4 @@ SIUE Computer Science
 evanbohler@gmail.com
 
 #### Education
-Southern Illinois University Edwardsville
-Computer Science Major, Mathematical Studies Minor
-Expected Graduation Spring 2025
+Computer Science Major, Mathematical Studies Minor. Expected Graduation Spring 2025
