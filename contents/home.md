@@ -6,6 +6,3 @@ SIUE Computer Science
 
 #### Email
 evanbohler@gmail.com
-
-#### Education
-Computer Science Major, Mathematical Studies Minor. Expected Graduation Spring 2025.
