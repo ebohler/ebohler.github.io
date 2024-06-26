@@ -1,7 +1,7 @@
-#### Southern Illinois University Edwardsville
+#### Southern Illinois University Edwardsville:
 Computer Science Major, Mathematical Studies Minor | GPA: 3.533\
 Expected Graduation Spring 2025
-### Courses:
+#### Courses:
 Software Engineering, Algorithms & Data Structures, Operating Systems, Database & Web Systems Development, Computer Organization & Architecture
 
 #### Technical Skills
