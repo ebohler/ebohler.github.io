@@ -6,5 +6,5 @@ Expected Graduation Spring 2025
 Software Engineering, Algorithms & Data Structures, Operating Systems, Database & Web Systems Development, Computer Organization & Architecture
 
 #### Technical Skills:
-Languages: C++, Python, MIPS Assembly
+Languages: C++, Python, MIPS Assembly\
 Technologies & Tools: Git, MAMP, Conda, PuTTy
