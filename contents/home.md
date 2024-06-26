@@ -1,4 +1,4 @@
-SIUE Computer Science
+SIUE Computer Science Student
 
 #### GitHub
 [ github.com/ebohler](https://github.com/ebohler)
